@@ -87,11 +87,10 @@ KICKR Gears requires:
 
 If you find this app useful, consider supporting development:
 
-☕ ☕ **[Buy me a coffee](https://www.buymeacoffee.com/booxdk)**
+☕ **[Buy me a coffee](https://www.buymeacoffee.com/booxdk)**
 
 ### Feedback & Issues
 - Found a bug? Have a suggestion?
-- Email: [your-email@example.com]
 - GitHub: https://github.com/booxdk/KickrGears)
 
 ## Tips
