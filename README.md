@@ -14,7 +14,7 @@ A lightweight macOS app that displays your WAHOO KICKR bike's gear selection as 
 
 ## Download
 
-**[Get the latest version](https://github.com/booxdk/KickrGears/releases/latest)**
+**[Get the latest version](https://github.com/booxdk/KickrGears/tree/main/download)**
 
 **Requirements:** macOS 13.0 (Ventura) or later
 
