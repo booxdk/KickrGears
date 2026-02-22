@@ -87,7 +87,7 @@ KICKR Gears requires:
 
 If you find this app useful, consider supporting development:
 
-☕ **[Buy me a coffee](#)** buymeacoffee.com/booxdk
+☕ ☕ **[Buy me a coffee](https://www.buymeacoffee.com/booxdk)**
 
 ### Feedback & Issues
 - Found a bug? Have a suggestion?
