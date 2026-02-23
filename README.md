@@ -28,7 +28,7 @@ A lightweight macOS app that displays your WAHOO KICKR bike's gear selection as 
 
 ## Need Help?
 
-Check out the **[detailed help guide](HELP.md)** for:
+Check out the **[detailed help guide](https://github.com/booxdk/KickrGears/blob/main/help.md)** for:
 - Using with Zwift
 - Understanding the display
 - Troubleshooting
